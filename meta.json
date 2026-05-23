@@ -1,0 +1,54 @@
+{
+  "name": "Simulador de práctica de rondas rápidas",
+  "description": "Simulador demo para practicar rondas de color y número sin dinero real. Entrená tu intuición de forma segura.",
+  "theme": "tool",
+  "design_theme": "playful-modular",
+  "structure_preset": "bento-signal",
+  "render_direction": "signal-bento",
+  "page_blueprint": "magazine-fold",
+  "language": "es",
+  "country": "AR",
+  "url": null,
+  "expected_url": "https://fast-round-practice-simulator.onrender.com",
+  "created": "2026-05-23T00:42:52.906078+00:00",
+  "owner_user_id": "user-1774822953462",
+  "owner_username": "admin",
+  "owner_display_name": "Administrator",
+  "provider_space_id": "provider-space",
+  "provider_space_name": "Provider space",
+  "status": "failed",
+  "run_id": "run-1779495708244",
+  "external_site_request_id": null,
+  "external_client_ref": null,
+  "external_source_label": null,
+  "source_type": "generated",
+  "publish_target": "render",
+  "mode": "production",
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "failed"
+  },
+  "qa": {
+    "status": "failed",
+    "detail": "Preflight QA failed before deploy for fast-round-practice-simulator: functional_desktop, functional_mobile",
+    "failed_checks": [
+      "functional_desktop",
+      "functional_mobile"
+    ],
+    "diagnostic_detail": "desktop: Result area did not render usable output. | mobile: Result area did not render usable output."
+  },
+  "features": [
+    "Hero pattern: command",
+    "Proof module: badges",
+    "Design theme: Playful Modular",
+    "Render direction: Signal Bento",
+    "Page blueprint: Magazine Fold",
+    "Runtime mode: palette_generator",
+    "Generation mode: direct_html",
+    "Artifact rendered, awaiting QA and deployment"
+  ],
+  "failure_reason": "Preflight QA failed before deploy for fast-round-practice-simulator: functional_desktop, functional_mobile",
+  "failed_at": "2026-05-23T00:42:56.947971+00:00"
+}
